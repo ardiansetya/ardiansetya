@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14a73906-d848-4c65-bec7-bf883d247a46/dfjz0xn-0468ad3a-d3b2-45d9-8cd6-0333676c8b88.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0YTczOTA2LWQ4NDgtNGM2NS1iZWM3LWJmODgzZDI0N2E0NlwvZGZqejB4bi0wNDY4YWQzYS1kM2IyLTQ1ZDktOGNkNi0wMzMzNjc2YzhiODguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-CR_VGrJFRY9KrVMBUBdotdOSHKoFovi1HNpawfEZ-c)
 <h1 align="center">Hi 👋, I'm Ardian Setya Pradana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM5NHk5ZWRpcHduZmhnOWc2ZmxoN3BnM3lpdDR5cnJjbHdrMGQ3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juSCTzqDAV1Xq/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardiansetya&label=Profile%20views&color=0e75b6&style=flat" alt="ardiansetya" /> </p>
 
