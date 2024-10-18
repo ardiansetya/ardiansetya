@@ -4,16 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://firstclasse.com.my/wp-content/uploads/2021/08/tumblr_45809237ad0f1996070059827834073a_6f7687bb_640.gif">
 
 
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently Study on **Dian Nuswantoro University**
 
 - 🌱 I’m currently learning **Next JS**
-
-- 💬 Ask me about **react, express**
-
-- 📫 How to reach me **ardiansetya123@gmail.com**
 
 - ⚡ Fun fact **Im not a weebs :V**
 
