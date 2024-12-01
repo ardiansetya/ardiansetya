@@ -2,7 +2,7 @@
 
 
 # 🌟 About Me  
-Hi, I'm **Ardian Setya Pradana**, a passionate **Fullstack Developer** and a 5th-semester student at Universitas Dian Nuswantoro.  
+Hi, I'm **Ardian Setya Pradana**, a passionate **Fullstack Developer** and a student at Universitas Dian Nuswantoro.  
 
 I specialize in building scalable and user-friendly web applications using **JavaScript**, **TypeScript**, **Next.js**, **Express.js**, and databases like **MongoDB**, **MySQL**, and **PostgreSQL**.  
 
