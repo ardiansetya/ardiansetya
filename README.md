@@ -9,7 +9,7 @@ I specialize in building scalable and user-friendly web applications using **Jav
 With a strong focus on learning and applying modern technologies, I strive to deliver impactful and efficient solutions. Let’s connect and collaborate!  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ardiian) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardiiian) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardiansetya) 
 
 
