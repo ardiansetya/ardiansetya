@@ -6,7 +6,6 @@ Hi, I'm **Ardian Setya Pradana**, a passionate **Fullstack Developer** and a stu
 
 I specialize in building scalable and user-friendly web applications using **JavaScript**, **TypeScript**, **Next.js**, **Express.js**, and databases like **MongoDB**, **MySQL**, and **PostgreSQL**.  
 
-With a strong focus on learning and applying modern technologies, I strive to deliver impactful and efficient solutions. Let’s connect and collaborate!  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ardiiian_) 
